@@ -4,6 +4,6 @@
 	"author": "MattHSBY",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Allows you to quickly add a new alias to a note while writing a display name for a link to that note",
+	"description": "Allows you to quickly add a new alias to a note while writing a display name for a link to that note.",
 	"isDesktopOnly": false
 }
